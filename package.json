@@ -1,0 +1,12 @@
+{
+  "name": "ir-counter-server",
+  "version": "1.0.0",
+  "description": "IR break-beam entry/exit counter — live dashboard server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
